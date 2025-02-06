@@ -1,0 +1,23 @@
+body{
+  background-color: white;
+}
+
+.Name {
+  text-align: center;
+  margin-top: 50px;
+  margin-left:550px;
+  color: #000;
+}
+
+.Box {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  border: 4px solid black;
+  background-color: pink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
